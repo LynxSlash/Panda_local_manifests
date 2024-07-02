@@ -1,11 +1,11 @@
 <manifest>
 <!--  a70q/a70s  -->
-<project path="device/samsung/a70q" name="Pandaispro/android_device_samsung_a70q" remote="github" revision="bliss"/>
-<project path="device/samsung/sm6150-common" name="Pandaispro/android_device_samsung_sm6150-common" remote="github" revision="bliss"/>
+<project path="device/samsung/a70q" name="Pandaispro/android_device_samsung_a70q" remote="github" revision="lineage-21"/>
+<project path="device/samsung/sm6150-common" name="Pandaispro/android_device_samsung_sm6150-common" remote="github" revision="lineage-21"/>
 <project path="kernel/samsung/sm6150" name="a70q-lineage/android_kernel_samsung_sm6150" remote="github" revision="lineage-21"/>
 <project path="vendor/samsung/a70q" name="a70q-lineage/proprietary_vendor_samsung_a70q" remote="github" revision="lineage-21"/>
 <project path="vendor/samsung/sm6150-common" name="a70q-lineage/proprietary_vendor_samsung_sm6150-common" remote="github" revision="lineage-21"/>
 <project path="prebuilts/clang/host/linux-x86/clang-14.0" name="Panchajanya1999/azure-clang" remote="gitlab" revision="main"/>
 <!--  hw/samsung  -->
-<project path="hardware/samsung" name="Pandaispro/android_hardware_samsung" remote="github" revision="lineage-21.0"/>
+<project path="hardware/samsung" name="BlissRoms-Devices/android_hardware_samsung" remote="github" revision="a70q"/>
 </manifest>
