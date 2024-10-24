@@ -6,7 +6,5 @@
 <project path="vendor/samsung/a70q" name="a70q-lineage/proprietary_vendor_samsung_a70q" remote="github" revision="lineage-21"/>
 <project path="vendor/samsung/sm6150-common" name="a70q-lineage/proprietary_vendor_samsung_sm6150-common" remote="github" revision="lineage-21"/>
 <!--  hw/samsung  -->
-<remove-project path="hardware/ril" name="platform/hardware/ril" groups="pdk" />
-<project path="hardware/ril" name="BlissRoms-Devices/android_hardware_ril" remote="github" revision="a70q"/>
-<project path="hardware/samsung" name="BlissRoms-Devices/android_hardware_samsung" remote="github" revision="a70q"/>
+<project path="hardware/samsung" name="Linux4/android_hardware_samsung" remote="github" revision="lineage-21.0"/>
 </manifest>
